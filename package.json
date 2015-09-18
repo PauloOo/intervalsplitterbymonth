@@ -1,0 +1,26 @@
+{
+  "name": "intervalsplitterbymonth",
+  "version": "1.0.1",
+  "description": "Returns an array of interval by month from interval of dates",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pauloOo/intervalsplitterbymonth"
+  },
+  "keywords": [
+    "split date",
+    "Interval",
+    "date",
+    "Month"
+  ],
+  "author": "@paulo0o",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paulo0o/intervalsplitterbymonth/issues"
+  },
+  "homepage": "https://github.com/paulo0o/intervalsplitterbymonth",
+  "dependencies": {}
+}
